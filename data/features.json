@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "id": "features-tab-1",
+      "label": "Mission",
+      "icon": "bi-binoculars",
+      "title": "Our Mission",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6byxWdLQyHsPqeJls9oko6r4kdU_FFeYDA&s",
+      "imgAlt": "Mission",
+      "description": "To provide safe, affordable, and expert-led healthcare for all—by harnessing digital innovation that is locally grounded, culturally appropriate, and scalable across low-resource settings."
+    },
+    {
+      "id": "features-tab-2",
+      "label": "Vision",
+      "icon": "bi-box-seam",
+      "title": "Our Vision",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjM2IbCvGr4XMWMvM6REtDoEgLbTqqkcOUBw&s",
+      "imgAlt": "Vision",
+      "description": "A continent where no life is lost due to distance, poverty, or lack of a health worker—by building a future where quality care reaches every person, everywhere."
+    },
+    {
+      "id": "features-tab-3",
+      "label": "Core Values",
+      "icon": "bi-brightness-high",
+      "title": "Core Values",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6byxWdLQyHsPqeJls9oko6r4kdU_FFeYDA&s",
+      "imgAlt": "Core Values",
+      "values": [
+        { "title": "Equity", "desc": "Prioritizing the underserved." },
+        { "title": "Innovation", "desc": "Solving real-world barriers." },
+        { "title": "Ethics", "desc": "Upholding clinical excellence." },
+        { "title": "Impact", "desc": "Measuring success by lives saved." }
+      ]
+    },
+    {
+      "id": "features-tab-4",
+      "label": "Why us?",
+      "icon": "bi-command",
+      "title": "What Makes Us Different?",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjM2IbCvGr4XMWMvM6REtDoEgLbTqqkcOUBw&s",
+      "imgAlt": "Difference",
+      "highlight": "\"Tenachin is the first full-spectrum, multilingual telehealth platform tailored to Sub-Saharan Africa. Designed by Ethiopian doctors.\"",
+      "description": "We integrate with existing health systems, ensuring efficiency, accessibility, and sustainable trust across communities."
+    }
+  ]
+}

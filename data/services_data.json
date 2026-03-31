@@ -1,0 +1,7 @@
+{
+  "services": [
+    { "id": 1, "icon": "bi-cash-stack", "color": "#0dcaf0", "title": "General & Specialist Consultations", "desc": "Diagnosis, follow-up, and second opinions across medical fields" },
+    { "id": 2, "icon": "bi-calendar4-week", "color": "#fd7e14", "title": "Mental Health & Counseling", "desc": "Psychiatric care, emotional support, marriage & addiction counseling" },
+    { "id": 3, "icon": "bi-chat-text", "color": "#20c997", "title": "Emergency & Tele-ICU Services", "desc": "Real-time triage, critical care, and provider support" }
+  ]
+}

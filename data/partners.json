@@ -1,0 +1,79 @@
+{
+  "partnerData": {
+    "title": "Partner With Us – Let’s Build the Future of Care",
+    "subtitle": "We collaborate with governments, NGOs, academic institutions, and tech innovators to build scalable, digitally-enabled health systems.",
+    "hospitalSectionTitle": "Working with Ethiopia's Leading Institutions",
+    "items": [
+      {
+        "icon": "bi-diagram-3",
+        "color": "#0dcaf0",
+        "title": "Service Integration",
+        "description": "Seamless digital health integration with existing systems.",
+        "delay": "100"
+      },
+      {
+        "icon": "bi-mortarboard",
+        "color": "#fd7e14",
+        "title": "Training & Capacity Building",
+        "description": "Upskilling health workers and digital teams for impact.",
+        "delay": "200"
+      },
+      {
+        "icon": "bi-bar-chart-line",
+        "color": "#20c997",
+        "title": "Research & Data Collaboration",
+        "description": "Joint studies, data sharing, and evidence-based innovation.",
+        "delay": "300"
+      },
+      {
+        "icon": "bi-cpu",
+        "color": "#6610f2",
+        "title": "Technology Development",
+        "description": "Co-create digital tools and platforms for health solutions.",
+        "delay": "400"
+      },
+      {
+        "icon": "bi-building",
+        "color": "#f3268c",
+        "title": "Public Health Campaigns",
+        "description": "Collaborative outreach for vaccination, nutrition, and more.",
+        "delay": "500"
+      },
+      {
+        "icon": "bi-person-badge",
+        "color": "#dc3545",
+        "title": "Health Workforce Strengthening",
+        "description": "Support and empower frontline health professionals.",
+        "delay": "600"
+      },
+      {
+        "icon": "bi-people",
+        "color": "#28a745",
+        "title": "Community Engagement & Inclusion",
+        "description": "Ensure diverse voices and needs shape health solutions.",
+        "delay": "700"
+      },
+      {
+        "icon": "bi-shield-check",
+        "color": "#007bff",
+        "title": "System Strengthening & Policy Support",
+        "description": "Advise and assist on digital health policy and system design.",
+        "delay": "800"
+      }
+    ],
+    "hospitals": [
+      {
+        "name": "Tikur Anbessa Specialized Hospital",
+        "image": "https://volume.aau.edu.et/7,0aa5dfa04deb.jpg?width=2400&height=auto"
+      },
+      {
+        "name": "St. Paul's Hospital (AaBET)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA6w9poO0zqfkhJQp1EUYmZzbqjKJkFbBAw&s"
+      },
+      {
+        "name": "Yekatit 12 Hospital",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96YSZ9Yn9GS2G85xSEje6scs__Q9gxBlGJg&s"
+      }
+    ]
+  }
+}

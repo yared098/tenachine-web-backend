@@ -1,0 +1,15 @@
+{
+  "aboutData": {
+    "title": "About",
+    "subtitle": "Who we are",
+    "mainDescription": "Tenachin is Africa’s first multilingual, full-spectrum telehealth platform, founded by doctors, programmers, and public health experts. We bridge the gap between skilled professionals and underserved communities by combining cutting-edge technology with top-tier specialists from Ethiopia and worldwide.",
+    "bullets": [
+      "Launched in Ethiopia. Built for Africa.",
+      "24/7. In your language. On your terms.",
+      "This is the future of care. Welcome to Tenachin."
+    ],
+    "highlightText": "Available 24/7 via phone, Tenachin’s trusted multidisciplinary team provides seamless, patient-centered care—from urgent and chronic disease management to mental health, prescription refills, tele-ICU, tele-anesthesia, maternal care, and home-based digital monitoring—through secure, easy-to-use digital platforms tailored to your needs.",
+    "ctaText": "Explore Services",
+    "ctaLink": "#services"
+  }
+}

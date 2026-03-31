@@ -1,0 +1,56 @@
+{
+  "blog_posts": [
+    {
+      "id": 1,
+      "category": "Technology",
+      "title": "How Telehealth is Bridging the Gap in Rural Healthcare",
+      "author": "Maria Doe",
+      "author_img": "assets/img/blog/blog-author.jpg",
+      "date": "Jan 1, 2026",
+      "datetime": "2026-01-01",
+      "image": "assets/img/blog/blog-1.jpg",
+      "details_url": "blog-details.html",
+      "excerpt": "Exploring the impact of mobile health solutions on remote patient monitoring."
+    },
+    {
+      "id": 2,
+      "category": "Development",
+      "title": "Integrating Real-Time POS Systems in Modern Restaurants",
+      "author": "Allisa Mayer",
+      "author_img": "assets/img/blog/blog-author-2.jpg",
+      "date": "Feb 5, 2026",
+      "datetime": "2026-02-05",
+      "image": "assets/img/blog/blog-2.jpg",
+      "details_url": "blog-details.html",
+      "excerpt": "A deep dive into Socket.io and thermal printing protocols for seamless orders."
+    },
+    {
+      "id": 3,
+      "category": "Innovation",
+      "title": "The Future of Digital Payments in Ethiopia",
+      "author": "Mark Dower",
+      "author_img": "assets/img/blog/blog-author-3.jpg",
+      "date": "Mar 22, 2026",
+      "datetime": "2026-03-22",
+      "image": "assets/img/blog/blog-3.jpg",
+      "details_url": "blog-details.html",
+      "excerpt": "How API integrations are transforming the local fintech landscape."
+    },
+    {
+      "id": 4,
+      "category": "AI & Health",
+      "title": "Leveraging LLMs for Better Patient Support",
+      "author": "Lisa Neymar",
+      "author_img": "assets/img/blog/blog-author-4.jpg",
+      "date": "Mar 30, 2026",
+      "datetime": "2026-03-30",
+      "image": "assets/img/blog/blog-4.jpg",
+      "details_url": "blog-details.html",
+      "excerpt": "Using generative AI to answer common medical queries and manage bookings."
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 10
+  }
+}

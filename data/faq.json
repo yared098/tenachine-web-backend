@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is Tenachin Telehealth?",
+      "answer": "Tenachin is Ethiopia’s first all-in-one digital healthcare platform. We connect patients to doctors—general doctors, specialists, subspecialists, and allied health professionals—via video, voice, and text."
+    },
+    {
+      "id": 2,
+      "question": "What kind of services does Tenachin offer?",
+      "answer": "We offer a wide range of services including:\n• General & Specialist medical Consultations\n• Emergency & ICU Teleconsultation\n• Mental Health & Counseling\n• Maternal, Neonatal & Child Health\n• Chronic Disease Management"
+    },
+    {
+      "id": 3,
+      "question": "How can I access Tenachin’s services?",
+      "answer": "You can access Tenachin through:\n• Our mobile app (Android/iOS)\n• Short code SMS services\n• Direct phone calls: +251978224422\n• Visiting our physical centers"
+    },
+    {
+      "id": 4,
+      "question": "Is Tenachin available 24/7?",
+      "answer": "Yes! Tenachin provides 24/7 access to doctors and specialists. Whether it's midnight chest pain or early morning fever, we’re here to help—any time, any day."
+    }
+  ]
+}

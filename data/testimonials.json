@@ -1,0 +1,60 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "W/o Almaz, 23",
+      "location": "Gojam",
+      "role": "Urogynecology Surgery Patient",
+      "text": "After my pelvic surgery in Addis Ababa, Tenachin helped me stay in touch with my surgeon and nurses from home. They monitored my wound, pain, vital signs, and even reminded me about pelvic floor therapy."
+    },
+    {
+      "id": 2,
+      "name": "W/rt. Hilina",
+      "location": "Addis Ababa",
+      "role": "Nurse Anesthetist",
+      "text": "Tenachin has changed the game for us. We use its perioperative checklists, real-time ICU guidance, and live video consults with senior anesthesiologists. It’s like having a world-class team in your pocket."
+    },
+    {
+      "id": 3,
+      "name": "Ato. Bekele",
+      "location": "Jimma",
+      "role": "Chronic Care Patient",
+      "text": "Managing my hypertension from Jimma used to be a struggle. Now, I can share my daily readings with specialists in Addis instantly. The peace of mind Tenachin provides is priceless for my family."
+    },
+    {
+      "id": 4,
+      "name": "W/ro. Mastewal",
+      "location": "Bahir Dar",
+      "role": "Maternal Health Beneficiary",
+      "text": "During my high-risk pregnancy, the doctors in Bahir Dar used Tenachin to consult with sub-specialists. I received expert guidance without the stress of traveling while pregnant. My baby and I are healthy thanks to this coordination."
+    },
+    {
+      "id": 5,
+      "name": "Dr. Samuel",
+      "location": "Hawassa",
+      "role": "General Practitioner",
+      "text": "In our Hawassa clinic, we often see complex cases. Tenachin allows us to bridge the gap between rural primary care and specialized urban centers through seamless data and video integration."
+    },
+    {
+      "id": 6,
+      "name": "Nurse Abdela",
+      "location": "Afar",
+      "role": "ICU Nurse",
+      "text": "An accident victim needed emergency ICU care, but we were short on resources. Through Tenachin, I connected with an ICU specialist who guided me step-by-step from intubation to ventilation settings. The young man survived."
+    },
+    {
+      "id": 7,
+      "name": "Ato. Tesfaye, 38",
+      "location": "Assossa",
+      "role": "Pediatric Surgery Referral",
+      "text": "Through Tenachin, we got connected to a pediatric surgeon quickly for my son's stomach pain. They guided us every step and gave us hope when we were scared."
+    },
+    {
+      "id": 8,
+      "name": "W/ro Kidija, 47",
+      "location": "Adama",
+      "role": "Cardiac & Chronic Pain Management",
+      "text": "Tenachin became my lifeline. Their cardiologist guided my treatment plan while their pain management team helped me manage my back pain with targeted advice and posture therapy—all from a distance."
+    }
+  ]
+}

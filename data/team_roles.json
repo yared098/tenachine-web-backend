@@ -1,0 +1,18 @@
+{
+  "roles": [
+    { "id": 1, "icon": "bi-person-badge-fill", "color": "#6366f1", "title": "Super-Specialists", "delay": "100" },
+    { "id": 2, "icon": "bi-shield-shaded", "color": "#f59e0b", "title": "Specialists", "delay": "150" },
+    { "id": 3, "icon": "bi-stethoscope", "color": "#10b981", "title": "General Practitioners", "delay": "200" },
+    { "id": 4, "icon": "bi-globe-americas", "color": "#06b6d4", "title": "Public Health Experts", "delay": "250" },
+    { "id": 5, "icon": "bi-capsule", "color": "#ef4444", "title": "Pharmacists", "delay": "300" },
+    { "id": 6, "icon": "bi-heart-pulse-fill", "color": "#8b5cf6", "title": "Allied Health Experts", "delay": "350" },
+    { "id": 7, "icon": "bi-capsule-pill", "color": "#0891b2", "title": "Clinical Pharmacists", "delay": "400" },
+    { "id": 8, "icon": "bi-file-earmark-medical", "color": "#eab308", "title": "ePrescription Coordinators", "delay": "450" },
+    { "id": 9, "icon": "bi-apple", "color": "#22c55e", "title": "Nutritionists & Dietitians", "delay": "500" },
+    { "id": 10, "icon": "bi-bicycle", "color": "#475569", "title": "Lifestyle Medicine", "delay": "550" },
+    { "id": 11, "icon": "bi-person-heart", "color": "#ec4899", "title": "Maternal Health Experts", "delay": "600" },
+    { "id": 12, "icon": "bi-people-fill", "color": "#3b82f6", "title": "Family Counselors", "delay": "650" },
+    { "id": 13, "icon": "bi-chat-heart", "color": "#d946ef", "title": "Mental Health", "delay": "700" },
+    { "id": 14, "icon": "bi-bandaid", "color": "#f97316", "title": "Trauma Therapists", "delay": "750" }
+  ]
+}
