@@ -1,6 +1,6 @@
 {
   "contactData": {
-    "title": "Get In Touch",
+    "title": "Contact us",
     "subtitle": "Our team is here to help you navigate your health journey. Reach out through any of our channels.",
     "info": [
       {
@@ -35,10 +35,26 @@
       "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.457813735!2d38.7596!3d9.0405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b858eb43e1d6d%3A0xe758a087701f2f8a!2s6%20Kilo%2C%20Addis%20Ababa!5e0!3m2!1sen!2set!4v1711900000000!5m2!1sen!2set"
     },
     "socials": [
-      { "icon": "bi-facebook", "url": "https://facebook.com/tenachin", "color": "hover:bg-[#1877F2]" },
-      { "icon": "bi-telegram", "url": "https://t.me/tenachin0978224422", "color": "hover:bg-[#0088cc]" },
-      { "icon": "bi-whatsapp", "url": "https://wa.me/251978224422", "color": "hover:bg-[#25D366]" },
-      { "icon": "bi-linkedin", "url": "https://linkedin.com/company/tenachin", "color": "hover:bg-[#0A66C2]" }
+      {
+        "icon": "bi-facebook",
+        "url": "https://facebook.com/tenachin",
+        "color": "hover:bg-[#1877F2]"
+      },
+      {
+        "icon": "bi-telegram",
+        "url": "https://t.me/tenachin0978224422",
+        "color": "hover:bg-[#0088cc]"
+      },
+      {
+        "icon": "bi-whatsapp",
+        "url": "https://wa.me/251978224422",
+        "color": "hover:bg-[#25D366]"
+      },
+      {
+        "icon": "bi-linkedin",
+        "url": "https://linkedin.com/company/tenachin",
+        "color": "hover:bg-[#0A66C2]"
+      }
     ],
     "cta": {
       "title": "Expert Medical Care is a Call Away",
@@ -46,36 +62,36 @@
       "phone": "+251 978 224422"
     },
     "terms": [
-      { 
-        "id": "01", 
-        "title": "Privacy & Data Protection", 
-        "content": "We strictly adhere to the Ethiopian Data Protection Proclamation. All video calls and chats are end-to-end encrypted. We do not sell or share medical records with third-party advertisers." 
+      {
+        "id": "01",
+        "title": "Privacy & Data Protection",
+        "content": "We strictly adhere to the Ethiopian Data Protection Proclamation. All video calls and chats are end-to-end encrypted. We do not sell or share medical records with third-party advertisers."
       },
-      { 
-        "id": "02", 
-        "title": "Emergency Notice", 
-        "content": "Tenachin is for elective and non-emergency consultations. For life-threatening emergencies, please dial 907 (Red Cross) or visit the nearest ER immediately.", 
-        "isEmergency": true 
+      {
+        "id": "02",
+        "title": "Emergency Notice",
+        "content": "Tenachin is for elective and non-emergency consultations. For life-threatening emergencies, please dial 907 (Red Cross) or visit the nearest ER immediately.",
+        "isEmergency": true
       },
-      { 
-        "id": "03", 
-        "title": "Licensed Professionals", 
-        "content": "Every provider on our platform is a verified healthcare professional licensed by the Ethiopian Ministry of Health (MoH) and the relevant regulatory bodies." 
+      {
+        "id": "03",
+        "title": "Licensed Professionals",
+        "content": "Every provider on our platform is a verified healthcare professional licensed by the Ethiopian Ministry of Health (MoH) and the relevant regulatory bodies."
       },
-      { 
-        "id": "04", 
-        "title": "Medical Advice Disclaimer", 
-        "content": "Telehealth is a tool to augment care, not replace physical examination when required. Our doctors may recommend an in-person visit if your condition cannot be safely managed digitally." 
+      {
+        "id": "04",
+        "title": "Medical Advice Disclaimer",
+        "content": "Telehealth is a tool to augment care, not replace physical examination when required. Our doctors may recommend an in-person visit if your condition cannot be safely managed digitally."
       },
-      { 
-        "id": "05", 
-        "title": "Prescription Policy", 
-        "content": "Prescriptions are issued at the sole discretion of the attending physician. We do not prescribe controlled substances or narcotics via telehealth." 
+      {
+        "id": "05",
+        "title": "Prescription Policy",
+        "content": "Prescriptions are issued at the sole discretion of the attending physician. We do not prescribe controlled substances or narcotics via telehealth."
       },
-      { 
-        "id": "06", 
-        "title": "Consent to Telehealth", 
-        "content": "By using Tenachin, you acknowledge the limitations of remote diagnosis and consent to receiving care via electronic communication." 
+      {
+        "id": "06",
+        "title": "Consent to Telehealth",
+        "content": "By using Tenachin, you acknowledge the limitations of remote diagnosis and consent to receiving care via electronic communication."
       }
     ]
   }

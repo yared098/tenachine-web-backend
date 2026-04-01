@@ -1,5 +1,19 @@
 {
-  "reviews": [
+  "testimonials": [
+    {
+      "id": "1775029731693",
+      "name": "Yades dev",
+      "location": "Addis Ababa, Ethiopia",
+      "role": "Patient / Health Professional",
+      "text": "Share the impact Tenachin has made here...im sho to here nice ui"
+    },
+    {
+      "id": "1775028059623",
+      "name": "New Contributor",
+      "location": "Addis Ababa, Ethiopia",
+      "role": "Patient / Health Professional",
+      "text": "Share the impact Tenachin has made here...g"
+    },
     {
       "id": 1,
       "name": "W/o Almaz, 23",

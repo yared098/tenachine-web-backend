@@ -1,12 +1,13 @@
 {
   "presets": [
     {
-      "title": "Download Tenachin",
+      "title": "here Download Tenachin here",
       "description": "yades new is the first full-spectrum telehealth platform tailored to Sub-Saharan Africa. Designed by Ethiopian doctors and public health leaders, it delivers safe, affordable, and high-quality care—anytime, anywhere. Our services are culturally adapted, patient-centered, and accessible via app, phone, or SMS. Backed by renowned specialists, we ensure efficiency, trust, and sustainable impact—bringing expert-led digital care to communities that need it most.",
       "buttonText": "Download Now",
       "downloadUrl": "https://play.google.com/store/apps/details?id=com.tenachin.app",
-      "showAnimation": true
+      "showAnimation": true,
+      "id": "preset-0-1775030836552"
     }
   ],
-  "activeIndex": 0
+  "activeID": "preset-0-1775030836552"
 }

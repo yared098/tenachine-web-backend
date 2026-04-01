@@ -1,6 +1,11 @@
 {
   "faqs": [
     {
+      "id": 1775027703784,
+      "question": "wowo good serveice",
+      "answer": "yeah its okay"
+    },
+    {
       "id": 1,
       "question": "What is Tenachin Telehealth?",
       "answer": "Tenachin is Ethiopia’s first all-in-one digital healthcare platform. We connect patients to doctors—general doctors, specialists, subspecialists, and allied health professionals—via video, voice, and text."
