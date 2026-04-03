@@ -9,6 +9,7 @@ exports.getAll = async (req, res) => {
     res.status(404).json({ message: "File not found" });
   }
 };
+
 // --- NEW LOGIN FUNCTION ---
 exports.login = async (req, res) => {
   try {

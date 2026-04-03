@@ -1,6 +1,13 @@
 {
   "services_data": [
     {
+      "id": "1775222851318",
+      "icon": "bi-camera-video",
+      "color": "#3b82f6",
+      "title": "camera-video",
+      "desc": "Describe the newcamera-videodigital health offering here..."
+    },
+    {
       "id": "1775045573828",
       "icon": "bi-activity",
       "color": "#3b82f6",
