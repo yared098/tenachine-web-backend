@@ -1,6 +1,13 @@
 {
   "testimonials": [
     {
+      "id": "1775045615051",
+      "name": "yades test",
+      "location": "mekele",
+      "role": "Patient / Health Professional",
+      "text": "Share the impact here...kjsgvfhjf"
+    },
+    {
       "id": "1775029731693",
       "name": "Yades dev",
       "location": "Addis Ababa, Ethiopia",

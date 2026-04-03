@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "username": "admin@tenachin.com",
+      "password": "admin@tenachin123_",
+      "role": "superadmin"
+    }
+  ]
+}

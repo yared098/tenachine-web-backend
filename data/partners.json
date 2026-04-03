@@ -63,10 +63,6 @@
     ],
     "hospitals": [
       {
-        "name": "Tikur Anbessa Specialized Hospital",
-        "image": "https://volume.aau.edu.et/7,0aa5dfa04deb.jpg?width=2400&height=auto"
-      },
-      {
         "name": "St. Paul's Hospital (AaBET)",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA6w9poO0zqfkhJQp1EUYmZzbqjKJkFbBAw&s"
       },
@@ -75,8 +71,8 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96YSZ9Yn9GS2G85xSEje6scs__Q9gxBlGJg&s"
       },
       {
-        "name": "google",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS364itOM-FYGzNe1W2VSMR15uqZnVSJKqwxA&s"
+        "name": "minlik",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvt5DlAR-5hmhAcEN2ycV_EeGtmbY7soyxQ&s"
       }
     ]
   }

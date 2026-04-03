@@ -9,6 +9,31 @@ exports.getAll = async (req, res) => {
     res.status(404).json({ message: "File not found" });
   }
 };
+// --- NEW LOGIN FUNCTION ---
+exports.login = async (req, res) => {
+  try {
+    const { username, password } = req.body;
+    const adminData = await fileHandler.readJson('admin'); // Reads admin.json
+
+    const user = adminData.users.find(
+      (u) => u.username === username && u.password === password
+    );
+
+    if (user) {
+      // In a more advanced version, you would generate a JWT token here
+      res.json({ 
+        success: true, 
+        message: "Login successful", 
+        token: "tenachin_secret_session_key", // This matches what the frontend looks for
+        user: { username: user.username, role: user.role }
+      });
+    } else {
+      res.status(401).json({ success: false, message: "Invalid username or password" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: "Auth system error" });
+  }
+};
 
 // POST - Add new item
 exports.addItem = async (req, res) => {

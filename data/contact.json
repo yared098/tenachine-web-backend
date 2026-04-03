@@ -41,6 +41,16 @@
         "color": "hover:bg-[#1877F2]"
       },
       {
+        "icon": "bi-instagram",
+        "url": "https://instagram.com/tenachin",
+        "color": "hover:bg-[#E4405F]"
+      },
+      {
+        "icon": "bi-tiktok",
+        "url": "https://tiktok.com/@tenachin",
+        "color": "hover:bg-[#000000]"
+      },
+      {
         "icon": "bi-telegram",
         "url": "https://t.me/tenachin0978224422",
         "color": "hover:bg-[#0088cc]"
