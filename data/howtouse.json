@@ -1,0 +1,66 @@
+{
+  "header": {
+    "badge": "",
+    "title": "Simple, Fast, Inclusive",
+    "description": "Tenachin provides world-class care for everyone. Access our services via our mobile app, direct voice calls, or our specialized SMS gateway."
+  },
+  "videoUrl": "https://www.youtube.com/embed/sWgh5-FNZc8",
+  "steps": [
+    {
+      "step": "01",
+      "title": "Get Started",
+      "icon": "bi-phone-vibrate",
+      "type": "list",
+      "items": [
+        "Mobile App (iOS/Android)",
+        "Call Center for voice support",
+        "SMS Gateway for low-tech access"
+      ]
+    },
+    {
+      "step": "02",
+      "title": "Share Your Concern",
+      "icon": "bi-chat-right-heart",
+      "type": "text",
+      "description": "Briefly describe your symptoms or upload a medical referral. You can also request a specific specialist based on your preference."
+    },
+    {
+      "step": "03",
+      "title": "Get Connected",
+      "icon": "bi-person-video3",
+      "type": "text",
+      "description": "Get matched with a certified GP or specialist within minutes via HD video, voice call, or secure text messaging."
+    },
+    {
+      "step": "04",
+      "title": "Receive Care",
+      "icon": "bi-capsule",
+      "type": "list",
+      "items": [
+        "Digital prescriptions",
+        "Lab requests (if needed)",
+        "Follow-up care instructions",
+        "New Payment Method"
+      ]
+    },
+    {
+      "step": "05",
+      "title": "Secure Payment",
+      "icon": "bi-shield-check",
+      "type": "list",
+      "items": [
+        "Telebirr / M-Pesa",
+        "Integrated Health Insurance",
+        "cbe commercial bank of ethiopia"
+      ]
+    },
+    {
+      "step": "⏱",
+      "title": "Response Guarantee",
+      "icon": "bi-lightning-charge",
+      "type": "guarantee",
+      "emergency": "< 10m",
+      "general": "< 30m"
+    }
+  ]
+}

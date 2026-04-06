@@ -1,0 +1,15 @@
+{
+  "theme": {
+    "primaryColor": "#ff000",
+    "secondaryColor": "#0984e3",
+    "fontSizeBase": "16px",
+    "headerFontWeight": "900",
+    "backgroundColor": "#0B1C2C",
+    "cardColor": "#152a3d",
+    "accentColor": "#2ED1B2"
+  },
+  "siteSettings": {
+    "title": "Tenachin Telehealth editable",
+    "maintenanceMode": false
+  }
+}

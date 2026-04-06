@@ -2,7 +2,7 @@
   "features": [
     {
       "id": "features-tab-1",
-      "label": "Mission",
+      "label": "Mission 1",
       "icon": "bi-binoculars",
       "title": "Our Mission",
       "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6byxWdLQyHsPqeJls9oko6r4kdU_FFeYDA&s",
@@ -26,10 +26,22 @@
       "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6byxWdLQyHsPqeJls9oko6r4kdU_FFeYDA&s",
       "imgAlt": "Core Values",
       "values": [
-        { "title": "Equity", "desc": "Prioritizing the underserved." },
-        { "title": "Innovation", "desc": "Solving real-world barriers." },
-        { "title": "Ethics", "desc": "Upholding clinical excellence." },
-        { "title": "Impact", "desc": "Measuring success by lives saved." }
+        {
+          "title": "Equity",
+          "desc": "Prioritizing the underserved."
+        },
+        {
+          "title": "Innovation",
+          "desc": "Solving real-world barriers."
+        },
+        {
+          "title": "Ethics",
+          "desc": "Upholding clinical excellence."
+        },
+        {
+          "title": "Impact",
+          "desc": "Measuring success by lives saved."
+        }
       ]
     },
     {

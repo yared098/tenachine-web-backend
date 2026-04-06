@@ -12,9 +12,10 @@ app.set('trust proxy', 1);
 
 // --- 2. CORS CONFIGURATION ---
 const allowedOrigins = [
-  "http://localhost:3000",
+  "http://localhost:5000",
   "https://tenachin.org",
-  "https://www.tenachin.org"
+  "https://www.tenachin.org",
+  "http://localhost:3000"
 ];
 
 const corsOptions = {

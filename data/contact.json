@@ -1,6 +1,7 @@
 {
   "contactData": {
     "title": "Contact us",
+   "image": "https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg?semt=ais_incoming&w=740&q=80",
     "subtitle": "Our team is here to help you navigate your health journey. Reach out through any of our channels.",
     "info": [
       {
@@ -32,7 +33,7 @@
       "lat": 9.0434633,
       "lng": 38.7618,
       "addressName": "ILI Building, 6 Kilo",
-      "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.457813735!2d38.7596!3d9.0405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b858eb43e1d6d%3A0xe758a087701f2f8a!2s6%20Kilo%2C%20Addis%20Ababa!5e0!3m2!1sen!2set!4v1711900000000!5m2!1sen!2set"
+      "googleMapsUrl": "https://www.google.com/maps/place/6+KILO+WULENA+MASEREJA+%7C+6+KILO+%E1%8B%89%E1%88%8D%E1%8A%93+%E1%88%9B%E1%88%B0%E1%88%A8%E1%8C%83+%7C+RIDE8294/@9.0445289,38.7630713,394m/data=!3m1!1e3!4m6!3m5!1s0x164b8f00213db54b:0x5552e8d9f13f3fa0!8m2!3d9.045093!4d38.7634115!16s%2Fg%2F11n9xtk36x?hl=en&entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D"
     },
     "socials": [
       {

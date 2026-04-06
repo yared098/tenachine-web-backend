@@ -1,8 +1,11 @@
 {
   "partnerData": {
+    "badge": "Ecosystem",
     "title": "Partner With Us – Let’s Build the Future of Care",
     "subtitle": "We collaborate with governments, NGOs, academic institutions, and tech innovators to build scalable, digitally-enabled health systems.",
     "hospitalSectionTitle": "Working with Ethiopia's Leading Institutions",
+    "ctaText": "Become a Partner",
+    "ctaLink": "#contact",
     "items": [
       {
         "icon": "bi-diagram-3",
@@ -61,6 +64,27 @@
         "delay": "800"
       }
     ],
-    "hospitals": []
+    "hospitals": [
+      {
+        "name": "Black Lion Hospital",
+        "image": "" 
+      },
+      {
+        "name": "St. Paul’s Hospital",
+        "image": ""
+      },
+      {
+        "name": "Zewditu Memorial",
+        "image": ""
+      },
+      {
+        "name": "Landmark General",
+        "image": ""
+      },
+      {
+        "name": "Nordic Medical Centre",
+        "image": ""
+      }
+    ]
   }
 }
