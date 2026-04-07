@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "title": "Welcome to",
+      "span": "Tenachin Telehealth",
+      "description": "Born from deep experience and firsthand understanding of Africa’s healthcare challenges, Tenachin is not just another platform—it’s a revolution. Africa’s first multilingual, full-spectrum telehealth ecosystem.",
+      "btnText": "Read More",
+      "link": "#about"
+    },
+    {
+      "title": "World-Class",
+      "span": "Multi-Specialty Care",
+      "description": "From emergency care to lifestyle coaching, tele-ICU to mental health—we deliver expert care led by a trusted team of renowned physicians and subspecialists anytime, anywhere.",
+      "btnText": "Contact Us",
+      "link": "#contact"
+    },
+    {
+      "title": "New Title",
+      "span": "Highlighted Text",
+      "description": "Description here...",
+    
+      "link": "#"
+    }
+  ],
+  "settings": {
+    "autoSlideInterval": 5000,
+    "showControls": true
+  }
+}

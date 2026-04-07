@@ -1,15 +1,27 @@
 {
   "theme": {
-    "primaryColor": "#ff000",
-    "secondaryColor": "#0984e3",
-    "fontSizeBase": "16px",
-    "headerFontWeight": "900",
+    "primaryColor": "#1fb775",
+    "secondaryColor": "#b708e7",
     "backgroundColor": "#0B1C2C",
     "cardColor": "#152a3d",
-    "accentColor": "#2ED1B2"
+    "accentColor": "#2ed15f",
+    "fontSizeBase": "16px",
+    "headerFontWeight": "900",
+    "badge": {
+      "textColor": "#ed6307",
+      "fontSize": "100px",
+      "fontWeight": "900",
+      "letterSpacing": "0.4em"
+    },
+    "title": {
+      "mainColor": "#FFFFFF",
+      "highlightColor": "#b7781f",
+      "fontSize": "72px",
+      "fontWeight": "900"
+    }
   },
   "siteSettings": {
-    "title": "Tenachin Telehealth editable",
-    "maintenanceMode": false
+    "title": "Tenachin Telehealth",
+    "maintenanceMode": true
   }
 }
